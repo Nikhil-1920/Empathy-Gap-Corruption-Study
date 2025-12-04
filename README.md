@@ -43,7 +43,7 @@ The script expects a CSV file named `empathygap-dataset.csv` with the following 
 ## Usage
 
 ```bash
-python empathy_analysis.py
+python empathy-gap.py
 ```
 
 The script automatically:
